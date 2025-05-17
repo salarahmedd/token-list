@@ -4,53 +4,11 @@
   "symbol": "FREEIK",
   "name": "Freeik",
   "decimals": 9,
+  "logoURI": "https://drive.google.com/uc?export=download&id=1w_9FVz-e49Vh5AhDEPttfDy7P39TMFuz",
   "tags": ["community"],
+  "extensions": {
     "twitter": "https://twitter.com/freeik804",
-    "whitepaper": "Freeik ($FREEIK) Whitepaper
-
-“A Decentralized Movement for Freedom”
-
-1. Introduction
-
-Freeik ($FREEIK) is a community-created token on the Solana blockchain, launched as a peaceful digital protest to support the freedom of Imran Khan and to amplify the voices of millions who believe in democracy, justice, and human rights.
-
-Unlike typical cryptocurrencies, $FREEIK is not about profit — it’s a symbol of resistance, of truth, and of collective power.
-
-2. Purpose
-
-Freeik stands for:
-	•	Freedom of political prisoners
-	•	Democratic restoration
-	•	People over power
-	•	Truth over propaganda
-
-By minting, holding, and sharing $FREEIK, users become part of a decentralized resistance — one that cannot be silenced.
-
-3. Core Principles
-	•	100% Public Ownership
-No pre-mint. No team wallet. No dev tax. $FREEIK was launched via pump.fun, and all tokens are held by the community.
-	•	No Central Control
-There is no team wallet, no backing company, and no off-chain leadership. Every coin is in the hands of the people.
-	•	No Promises, No Profits
-This is not an investment vehicle. It’s a voice — a digital banner raised for justice and freedom.
-
-4. Token Overview
-
-Property	Details
-Name	Freeik
-Symbol	$FREEIK
-Blockchain	Solana
-Mint Address	3XH4xwJnf6G1DKEuC3TJqpdLVGqq3WBu2is3Zmmjphwc
-Total Supply	Community-controlled
-Launch Platform	pump.fun
-
-5. Community Mission
-	•	Raise awareness for the unjust imprisonment of Imran Khan
-	•	Use $FREEIK to unite people digitally across borders and ideologies
-	•	Explore creative protest through memes, art, NFTs, and digital tools
-
-6. Roadmap
-	•	Launch: Token launched on pump.fun — fully owned by the publi",
-    "description": "Freeik is a decentralized community movement on Solana to support freedom for Imran Khan."
+    "whitepaper": "https://drive.google.com/uc?export=download&id=1ZbLqSktz5I-TpyaWxBpNc9XS5-BqII8j",
+    "description": "Freeik is a decentralized community token on Solana created to support the call for freedom for Imran Khan and empower peaceful digital protest."
   }
 }
